@@ -1,5 +1,10 @@
-# `Saga Protocol`
-An open-source framework for general fitness
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/1f605646-e4d0-43f6-bb89-ac8a86755995" width="200px" height="auto"/>
+<br/>
+
+  `An open-source framework for general fitness`
+</div>
 
 ## How the idea came about ?
 
@@ -10,12 +15,17 @@ The concepts listed here are applicable in a general to fitness in general which
 
 This repo is basically a [Obsidian](https://obsidian.md/) knowledge graph. You can consume the ideas individually directly from the repository as all notes are essentially in markdown format so can be viewed directly in Github. Or you can install Obsidian and use it to traverse the graph.
 
+<img src="https://github.com/user-attachments/assets/e56805c5-5418-4b5e-badd-b3d154ad6c5b" width="400px" height="auto"/>
+
 ## People Sources
 
-In this world of information overload its important that we wet the sources we consume information from, their credentials, their motivations, their background. On my journey I came across the following people that made all the difference.
+In this world of information overload its important audit the content we consume. I am not a biochemistry major or a research scientist so if I am relying on secondary research it becomes crucial that the sources I utilize are rock solid. The below people have made sense to me and helped me on my journey. You can check out their credentials and their content to judge for yourself.
 
 1. [Dr Pal Manickam](https://www.youtube.com/@DrPal)
 2. [Jitendra Choksey](https://www.linkedin.com/in/jitendrachouksey?originalSubdomain=in)
 3. [Oisín Mulligan](https://www.instagram.com/mulligainz_fitness/?hl=en)
-4. [Dr Mike Varshavski](https://www.youtube.com/doctormike)
 5. [Dr. Michael Israetel](https://www.youtube.com/channel/UCfQgsKhHjSyRLOp9mnffqVg)
+
+## See Wrong information ?
+
+Use the Issues tab to log an issue with the content in question, the contradictory information / data along with the source used.
