@@ -13,7 +13,7 @@ Classification of Nurtition
 
 [[Energy Calculation]]
 [[Energy Usage]]
-[[Energy Usage]]
+[[Energy Conversion and Weight]]
 [[Energy Types]]
 [[Sugar and Insulin Spikes]]
 [[Alchohol]]
