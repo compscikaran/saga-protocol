@@ -7,11 +7,11 @@ The two metrics that have been proven to be the highest predictor of longevity i
 
 Classification of exercise - 
 
-1. Strength Training / Resistance Training - Earlier known as weight lifting, any exercise that contracts your muscles using weights, resistance cables and even your own body weight.
+1. Resistance Training - Earlier known as weight lifting, any exercise that contracts your muscles using weights, resistance cables and even your own body weight.
 2. Cardiovascular Training - Running, Cycling, Playing an intense sport so basically anything that stresses your heart. 
 	1. Steady State - You exercise at a constant moderate pace for long durations. E.g. Marathons
 	2. Interval Training - you alternate between high intensity (low duration) and low intensity (high duration) exercises. E.g. Walking and Sprinting alternatively
-3. Flexibility Training - E.g. Yoga, Stretching
+3. Flexibility Training - E.g. Yoga, Tai Chi, Stretching
 
 [[Interval Training vs Steady State]]
 [[VO2Max]]
